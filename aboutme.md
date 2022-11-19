@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you might (not) find me interesting
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a first-year PhD candidate and Senior Tutor at [Durham Law School](https://www.durham.ac.uk/staff/jordan-c-buck/). My research focuses on the application of the principle of human dignity to end-of-life medical treatment decisions in England and Wales and Germany. More broadly, I am also interested in self-determination, privacy, and the social, political, and ethical debates revolving around individual autonomy.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I hold an LLB and MJur from the University of Durham, where I currently teach Law and Medicine and have experience teaching Tort Law.
