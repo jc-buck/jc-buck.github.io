@@ -13,7 +13,7 @@ html {
 body {
   font-family: 'Liberation Sans', 'Inter', 'Open Sans', serif;
   font-size: 1.125rem;
-  color: {{ site.text-col | default: "#404040" }};
+  color: {{ site.text-col | default: "#000000" }};
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
@@ -47,14 +47,14 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 a {
-  color: {{ site.link-col | default: "#008AFF" }};
+  color: {{ site.link-col | default: "#C41E3A" }};
 }
 a:hover,
 a:focus {
-  color: {{ site.hover-col | default: "#0085A1" }};
+  color: {{ site.hover-col | default: "#C41E3A" }};
 }
 blockquote {
-  color: #808080;
+  color: #000000;
   font-style: italic;
 }
 blockquote p:first-child {
